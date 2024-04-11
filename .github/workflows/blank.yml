@@ -1,0 +1,19 @@
+$ pkg update && pkg upgrade (enter)
+
+$ pkg install git
+
+$ pkg install wget
+
+$ Y
+
+$ pkg install python2
+
+$ pip2 install mechanize
+
+$ git clone https://github.com/novalattasya/darkpulsa
+
+$ cd darkpulsa
+
+$ sh pulsa.sh
+
+$ +62895630345922
